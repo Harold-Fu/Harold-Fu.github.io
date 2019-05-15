@@ -2,13 +2,15 @@
 layout:     post
 title:      Hello, world!
 subtitle:   这是Harold博客的第一篇文章。
-date:       2018-05-15
-author:     Harold
+date:       2019-05-15
+author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-	- Optimum Day
+    - Optimum Day
+    - Blog
 ---
+
 # Hello, world!
 ###### 这是Harold博客的第一篇文章。
 ## 为什么会想起写一个博客呢？
