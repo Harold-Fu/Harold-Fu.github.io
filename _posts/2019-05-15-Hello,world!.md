@@ -3,7 +3,7 @@ layout:     post
 title:      Hello, world!
 subtitle:   这是Harold博客的第一篇文章。
 date:       2019-05-15
-author:     BY
+author:     Harold
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
