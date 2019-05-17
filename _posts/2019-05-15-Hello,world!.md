@@ -7,8 +7,8 @@ author:     Harold
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-	    - 其它
-	    - Blog
+    - 其它
+    - Blog
 ---
 # Hello, world!
 ###### 这是Harold博客的第一篇文章。
